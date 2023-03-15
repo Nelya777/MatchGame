@@ -15,6 +15,8 @@ using System.Windows.Shapes;
 using System.Windows.Threading;
 
 namespace MatchGame
+
+    //Мой первый проект по книги "Изучаем C#"
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
